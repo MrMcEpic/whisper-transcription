@@ -61,9 +61,11 @@ Thumbs.db
 *.flac
 *.srt
 *.vtt
+!test1.mp4
 
 # Output files
 *.txt
+!test2.txt
 !requirements.txt
 *.json
 

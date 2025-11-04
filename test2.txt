@@ -1,0 +1,50 @@
+[0:00:00 - 0:00:03] [SPEAKER_00] 
+  0:00:00-0:00:01: [SPEAKER_00]  Alright,
+  0:00:01-0:00:01: [SPEAKER_01]  so
+  0:00:01-0:00:01: [SPEAKER_01]  here
+  0:00:01-0:00:01: [SPEAKER_01]  we
+  0:00:01-0:00:02: [SPEAKER_01]  are
+  0:00:02-0:00:02: [SPEAKER_01]  in
+  0:00:02-0:00:02: [SPEAKER_01]  front
+  0:00:02-0:00:02: [SPEAKER_01]  of
+  0:00:02-0:00:02: [SPEAKER_01]  the
+  0:00:02-0:00:03: [SPEAKER_01]  elephants.
+Full segment: [SPEAKER_00] Alright, so here we are in front of the elephants.
+
+[0:00:04 - 0:00:12] [SPEAKER_01] 
+  0:00:04-0:00:05: [SPEAKER_01]  The
+  0:00:05-0:00:05: [SPEAKER_01]  cool
+  0:00:05-0:00:05: [SPEAKER_01]  thing
+  0:00:05-0:00:05: [SPEAKER_01]  about
+  0:00:05-0:00:06: [SPEAKER_01]  these
+  0:00:06-0:00:06: [SPEAKER_01]  guys
+  0:00:06-0:00:06: [SPEAKER_01]  is
+  0:00:06-0:00:06: [SPEAKER_01]  that
+  0:00:06-0:00:07: [SPEAKER_01]  they
+  0:00:07-0:00:07: [SPEAKER_01]  have
+  0:00:07-0:00:08: [SPEAKER_01]  really,
+  0:00:08-0:00:09: [SPEAKER_01]  really,
+  0:00:09-0:00:09: [SPEAKER_01]  really
+  0:00:09-0:00:10: [SPEAKER_01]  long
+  0:00:10-0:00:12: [SPEAKER_01]  trunks.
+Full segment: [SPEAKER_01] The cool thing about these guys is that they have really, really, really long trunks.
+
+[0:00:12 - 0:00:13] [SPEAKER_01] 
+  0:00:12-0:00:12: [SPEAKER_01]  And
+  0:00:12-0:00:13: [SPEAKER_01]  that's
+  0:00:13-0:00:13: [SPEAKER_01]  cool.
+Full segment: [SPEAKER_01] And that's cool.
+
+[0:00:16 - 0:00:18] [SPEAKER_00] 
+  0:00:16-0:00:16: [SPEAKER_00]  And
+  0:00:16-0:00:17: [SPEAKER_00]  that's
+  0:00:17-0:00:17: [SPEAKER_00]  pretty
+  0:00:17-0:00:17: [SPEAKER_00]  much
+  0:00:17-0:00:17: [SPEAKER_00]  all
+  0:00:17-0:00:17: [SPEAKER_00]  there
+  0:00:17-0:00:18: [SPEAKER_00]  is
+  0:00:18-0:00:18: [SPEAKER_00]  to
+  0:00:18-0:00:18: [SPEAKER_00]  say.
+Full segment: [SPEAKER_00] And that's pretty much all there is to say.
+
+
